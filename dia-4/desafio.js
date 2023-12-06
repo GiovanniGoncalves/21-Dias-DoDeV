@@ -22,7 +22,7 @@ let restauranteAberto = prompt('O restaurante que deseja ir está aberto?')
 if(usuarioComFome === "sim" && temDinheiro === "não"){
     console.log("Hoje a janta será em casa")
 }
-    if(usuarioComFome === "sim" && temDinheiro === "sim" && restauranteAberto === "não") {
+    else if(usuarioComFome === "sim" && temDinheiro === "sim" && restauranteAberto === "não") {
         console.log('Peça um delivery!')
 }
 else {
