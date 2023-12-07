@@ -26,3 +26,6 @@ if(idade <= 18 && habilitação === "não"){
 }else{
     console.log(nome + ", " + "você será o motorista")
 }
+
+
+
