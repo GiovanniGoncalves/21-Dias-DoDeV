@@ -20,7 +20,8 @@
 //        2022 - 4 anos de idade
 
 let anosVividos = parseInt(prompt('Me informe o ano que você nasceu'));
-    let anoAtual = new Date().getFullYear(); // Obtém o ano atual
+    
+ // Obtém o ano atual
     
     for (let ano = anosVividos; ano <= anoAtual; ano++) {
         let idade = ano - anosVividos;
@@ -47,3 +48,4 @@ let anosVividos = parseInt(prompt('Me informe o ano que você nasceu'));
         }
     }
     
+
