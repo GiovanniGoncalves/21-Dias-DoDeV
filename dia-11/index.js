@@ -12,3 +12,4 @@
 
 
 // 4 - No final exiba a nota de cada aluno, a soma das notas e a média geral da turma. Para calcular a média deve dividir a soma das notas pelo total de alunos.
+// TESTE
