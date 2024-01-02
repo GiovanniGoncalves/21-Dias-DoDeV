@@ -29,7 +29,7 @@ while (continuar) {
     alunos[contador] = nome
     notas [contador] = nota
     contador++
-    let resposta = prompt('Deseja inserir informações sobre outro aluni? (s/n)')
+    let resposta = prompt('Deseja inserir informações sobre outro aluno? (s/n)')
     if (resposta == 'n')
         continuar = false
 }
