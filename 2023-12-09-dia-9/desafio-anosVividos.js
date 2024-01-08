@@ -1,4 +1,4 @@
-// DESAFIO DIA #9:
+// DESAFIO DIA #9::
 
 // 1 - Conhecendo seu usuário
 
