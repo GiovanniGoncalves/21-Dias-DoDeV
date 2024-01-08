@@ -1,5 +1,5 @@
 //WHILE - ENQUANTO
-// let condicao = true;
+// let condicao = true;;
 // while(condicao === true){
 //     let idade = Number(prompt('Insira sua idade'))
 //     if(idade < 18){

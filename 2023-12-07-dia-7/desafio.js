@@ -1,4 +1,4 @@
-// DESAFIO DIA #7:
+// DESAFIO DIA #7::
 
 // 1 - DoDev school (WHILE)
 

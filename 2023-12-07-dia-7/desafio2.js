@@ -1,4 +1,4 @@
-// DESAFIO DIA #7:
+// DESAFIO DIA #7::
 
 // 2 - Caixa eletrônico DoDev (DOWHILE)
 
