@@ -1,6 +1,6 @@
 // DESAFIO DIA #5:
 
-// 1 - Calculadora DoDev
+// 1 - Calculadora DoDev.
 
 // 1.1 - Crie um algoritmo que peça 2 números ao usuário
 

@@ -1,6 +1,6 @@
 // DESAFIO DIA #5:
 
-// 2 - DoDev thru
+// 2 - DoDev thru.
 
 
 // 1.1 - Crie um algoritmo que peça para o usuário escolher entre 3 opções em um posto de gasolina: abastecer com gasolina, com álcool ou calibrar os pneus.

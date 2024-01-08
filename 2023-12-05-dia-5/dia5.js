@@ -1,4 +1,4 @@
-//APRENDENDO SWITCH CASE
+//APRENDENDO SWITCH CASE!
 
 let idade = Number(promp('Insira sua idade'))
 
