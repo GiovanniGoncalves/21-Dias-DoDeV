@@ -1,4 +1,4 @@
-// DESAFIO DIA #10:
+// DESAFIO DIA #10::
 
 // Lista de exercícios
 

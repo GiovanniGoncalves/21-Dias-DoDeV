@@ -1,4 +1,4 @@
-let nomes = []; // Criando uma array vazio.
+let nomes = []; // Criando uma array vazio..
 continuar = true; // Apenas para controlar quando eu quero sair ou não da array.
 let posicaoDoArray = 0; // Em que posição do Array eu vou adicionar o nome.
 
