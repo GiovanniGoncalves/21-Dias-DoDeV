@@ -2,7 +2,7 @@
 
 // let tipoTexto = "2";
 // let tipoNumber = 2;
-// let tipoBoolTexto = "true";
+// let tipoBoolTexto = "true";;
 // let tipoBol = true; 
 
     //let e const

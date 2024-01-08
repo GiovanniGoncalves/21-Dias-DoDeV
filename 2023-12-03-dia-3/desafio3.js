@@ -1,6 +1,6 @@
 // DESAFIO DIA #3:
 
-// Conhecendo o usuário
+// Conhecendo o usuário!
 
 // 1 - Crie um sistema que peça para o seu usuário as seguintes informações: nome, idade, altura e peso. 
 
