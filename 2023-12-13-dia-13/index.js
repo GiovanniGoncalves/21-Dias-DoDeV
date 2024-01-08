@@ -1,3 +1,4 @@
+//Criando classe Aluno
 class Aluno{
     nome
     idade
@@ -12,6 +13,7 @@ class Aluno{
     }
 }
 
+//Exibindo Cadastro de alunos no console para o usuário, Simulando uma tela de sistema e pegando posição do Index
 console.log("======= Cadastro de alunos =========")
 let alunos = []
 let continuar = true;

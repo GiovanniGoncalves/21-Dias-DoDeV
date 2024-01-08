@@ -1,4 +1,4 @@
-// 1 - Crie uma classe para representar o seu computador:
+// 1 - Crie uma classe para representar o seu computador::
 
 // Tipo - desktop ou notebook;
 // Processador - nome do seu processador, ex: Ryzen 5

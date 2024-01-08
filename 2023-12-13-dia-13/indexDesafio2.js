@@ -1,4 +1,4 @@
-// DESAFIO DIA #13:
+// DESAFIO DIA #13::
 
 // Desafio 2 - Corrida DoDev
 
