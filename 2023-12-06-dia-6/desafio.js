@@ -1,6 +1,6 @@
 // DESAFIO DIA #6:
 
-// Lista de exercícios
+// Lista de exercícios.
 
 // 1 - Faça um algoritmo que receba um valor, inteiro e positivo, e usando a estrutura FOR, mostre no console uma contagem de 0 até o número recebido.
 

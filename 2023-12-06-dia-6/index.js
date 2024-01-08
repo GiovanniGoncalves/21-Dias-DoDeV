@@ -1,4 +1,4 @@
-// APRENDENDO LOOP DE REPETIÇÃO * FOR *
+// APRENDENDO LOOP DE REPETIÇÃO ** FOR **
 
 let tabuada = Number(prompt('Escolha a tabuada que deseja'))
 
