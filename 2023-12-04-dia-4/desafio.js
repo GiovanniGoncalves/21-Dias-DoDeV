@@ -1,6 +1,6 @@
 // DESAFIO DIA #4:
 
-// 1 - Jantar especial?
+// 1 - Jantar especial??
 
 // 1.1 - Crie um sistema que pergunte ao seu usuário se ele está com fome, se tem dinheiro e se o restaurante está aberto.
 

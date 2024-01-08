@@ -3,7 +3,7 @@ let nome = prompt('Insira seu nome')
 
 // Operadores de comparação
 // == igual | != diferente | < menor que | > maior que | <= => maior e menor ou igual
-// === é igual o valor e o tipo | !== é diferente o valor e o tipo!
+// === é igual o valor e o tipo | !== é diferente o valor e o tipo!!
 
 if (idade === 22 && nome === "Giovanni"){
     console.log("Seu nome é giovanni e você tem 22 anos")
